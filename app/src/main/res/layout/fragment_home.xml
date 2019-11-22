@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="76dp"
-        android:background="#1B4D45"
+        android:background="#BB0076"
         android:gravity="center"
         android:text="Student Details"
         android:textColor="#FFFFFF"

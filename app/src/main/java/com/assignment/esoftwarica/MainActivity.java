@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         usernameLogin = etUsername.getText().toString();
         passwordLogin = etPassword.getText().toString();
 
-        if (usernameLogin.equals("shrishak") && passwordLogin.equals("shrishak")){
+        if (usernameLogin.equals("gaurav") && passwordLogin.equals("gaurav")){
             etUsername.getText().clear();
             etPassword.getText().clear();
             Intent intent = new Intent(this, Dashboard.class);

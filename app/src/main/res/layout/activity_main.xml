@@ -6,16 +6,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="76dp"
-        android:background="#1B4D45"
-        android:gravity="center"
-        android:text="Login"
-        android:textColor="#FFFFFF"
-        android:textSize="30dp"
-        android:textStyle="bold" />
-
     <EditText
         android:id="@+id/etUsername"
         android:layout_width="match_parent"

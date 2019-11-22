@@ -68,13 +68,13 @@
             android:id="@+id/tvStudentGender"
             android:layout_width="66dp"
             android:layout_height="25dp"
-            android:layout_marginEnd="140dp"
-            android:layout_marginRight="140dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
             android:hint="Gender"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/tvStudentName"
-            app:layout_constraintVertical_bias="0.9" />
+            app:layout_constraintVertical_bias="0.3" />
 
         <ImageButton
             android:id="@+id/imgDelete"
